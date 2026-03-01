@@ -83,5 +83,5 @@ C'est le cœur du projet. Les dates dans les articles Pokaa peuvent prendre de n
 ```
 "vendredi 7 mars"  →  (07/03)
 "le 8 mars"  →  (08/03)
-```
+ ```
 
